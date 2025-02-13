@@ -1,0 +1,45 @@
+﻿@model CadastroUsuario.Models.Usuario
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h4>CADASTRE - SE</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4" asp-action="Index">
+        <form asp-controller="UsuarioController1" asp-action="Adicionar" method="post" >
+            <!--asp-action="Index"-->
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NomeMae" class="control-label"></label>
+                <input asp-for="NomeMae" class="form-control" />
+                <span asp-validation-for="NomeMae" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CPF" class="control-label"></label>
+                <input asp-for="CPF" class="form-control" />
+                <span asp-validation-for="CPF" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" asp-action="Index1"/>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

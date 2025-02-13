@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\UFMT\\source\\repos\\CadastroUsuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77EB01E3-7C5E-403F-93FE-3FF58888994A}|CadastroUsuario\\CadastroUsuario.csproj|d:\\users\\ufmt\\source\\repos\\cadastrousuario\\cadastrousuario\\views\\usuariocontroller1\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77EB01E3-7C5E-403F-93FE-3FF58888994A}|CadastroUsuario\\CadastroUsuario.csproj|solutionrelative:cadastrousuario\\views\\usuariocontroller1\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77EB01E3-7C5E-403F-93FE-3FF58888994A}|CadastroUsuario\\CadastroUsuario.csproj|d:\\users\\ufmt\\source\\repos\\cadastrousuario\\cadastrousuario\\views\\usuariocontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77EB01E3-7C5E-403F-93FE-3FF58888994A}|CadastroUsuario\\CadastroUsuario.csproj|solutionrelative:cadastrousuario\\views\\usuariocontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77EB01E3-7C5E-403F-93FE-3FF58888994A}|CadastroUsuario\\CadastroUsuario.csproj|d:\\users\\ufmt\\source\\repos\\cadastrousuario\\cadastrousuario\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77EB01E3-7C5E-403F-93FE-3FF58888994A}|CadastroUsuario\\CadastroUsuario.csproj|solutionrelative:cadastrousuario\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77EB01E3-7C5E-403F-93FE-3FF58888994A}|CadastroUsuario\\CadastroUsuario.csproj|d:\\users\\ufmt\\source\\repos\\cadastrousuario\\cadastrousuario\\models\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77EB01E3-7C5E-403F-93FE-3FF58888994A}|CadastroUsuario\\CadastroUsuario.csproj|solutionrelative:cadastrousuario\\models\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "D:\\Users\\UFMT\\source\\repos\\CadastroUsuario\\CadastroUsuario\\Views\\UsuarioController1\\Index1.cshtml",
+              "RelativeDocumentMoniker": "CadastroUsuario\\Views\\UsuarioController1\\Index1.cshtml",
+              "ToolTip": "D:\\Users\\UFMT\\source\\repos\\CadastroUsuario\\CadastroUsuario\\Views\\UsuarioController1\\Index1.cshtml",
+              "RelativeToolTip": "CadastroUsuario\\Views\\UsuarioController1\\Index1.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T19:48:09.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\UFMT\\source\\repos\\CadastroUsuario\\CadastroUsuario\\Views\\UsuarioController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastroUsuario\\Views\\UsuarioController1\\Index.cshtml",
+              "ToolTip": "D:\\Users\\UFMT\\source\\repos\\CadastroUsuario\\CadastroUsuario\\Views\\UsuarioController1\\Index.cshtml",
+              "RelativeToolTip": "CadastroUsuario\\Views\\UsuarioController1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T19:48:04.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Users\\UFMT\\source\\repos\\CadastroUsuario\\CadastroUsuario\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "CadastroUsuario\\Models\\Usuario.cs",
+              "ToolTip": "D:\\Users\\UFMT\\source\\repos\\CadastroUsuario\\CadastroUsuario\\Models\\Usuario.cs",
+              "RelativeToolTip": "CadastroUsuario\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:34:47.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioContext.cs",
+              "DocumentMoniker": "D:\\Users\\UFMT\\source\\repos\\CadastroUsuario\\CadastroUsuario\\Models\\UsuarioContext.cs",
+              "RelativeDocumentMoniker": "CadastroUsuario\\Models\\UsuarioContext.cs",
+              "ToolTip": "D:\\Users\\UFMT\\source\\repos\\CadastroUsuario\\CadastroUsuario\\Models\\UsuarioContext.cs",
+              "RelativeToolTip": "CadastroUsuario\\Models\\UsuarioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:34:47.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
